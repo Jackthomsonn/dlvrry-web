@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "dlvrry-web"
+  "defaultProject": "dlvrry-web",
+  "cli": {
+    "analytics": "46057afb-7f63-4ccf-839a-cec2af11d1db"
+  }
 }
