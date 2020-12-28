@@ -17,15 +17,19 @@
 
     h1, p {
       color: #3F3047;
-      margin: 1rem;
+      margin: 2.5rem;
       text-align: center;
       margin-bottom: 2rem;
+      line-height: 1.4rem;
+      letter-spacing: 0.03rem;
     }
 
     p {
       text-transform: uppercase;
-      font-weight: 700;
+      font-weight: 500;
       font-size: 1rem;
+      line-height: 1.4rem;
+      letter-spacing: 0.03rem;
     }
 
     img {
@@ -44,7 +48,7 @@
       border-radius: 2rem;
       color: rgba(230,52,98, 1);
       font-size: 1rem;
-      font-weight: 700;
+      font-weight: 500;
       padding: 0 2rem;
       height: 3rem;
       outline: none;
@@ -75,7 +79,7 @@
         border-radius: 2rem;
         color: #FFF;
         font-size: 1.2rem;
-        font-weight: 700;
+        font-weight: 500;
         padding: 0 2rem;
         height: 3rem;
         cursor: pointer;
@@ -103,14 +107,19 @@
 
         h1 {
           color: #3F3047;
-          font-size: 1.5rem;
-          font-weight: 700;
+          font-size: 1.4rem;
+          font-weight: 500;
+          line-height: 2rem;
+          letter-spacing: 0.03rem;
+          margin-bottom: 1rem;
         }
 
         p {
           color: #3F3047;
           font-size: 1rem;
-          font-weight: 300;
+          font-weight: 400;
+          line-height: 1.4rem;
+          letter-spacing: 0.03rem;
         }
       }
 
@@ -137,13 +146,19 @@
       height: auto;
     }
 
+    h3 {
+      font-weight: 500;
+      text-align: center;
+      margin-bottom: 1.4rem;
+    }
+
     button {
       background: rgba(230,52,98, 0.2);
       border: 0;
       border-radius: 2rem;
       color: rgba(230,52,98, 1);
       font-size: .9rem;
-      font-weight: 700;
+      font-weight: 500;
       padding: 0 2rem;
       height: auto;
       padding: 1.2rem 2rem;
