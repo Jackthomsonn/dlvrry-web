@@ -5,7 +5,11 @@
   background: #f7f7f7;
   padding-bottom: 2rem;
   padding: 5rem 0;
-  width: 70vw;
+
+  .container {
+    width: 70vw;
+    margin: 0 auto;
+  }
 
   h1,
   h2,
