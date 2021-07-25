@@ -1,0 +1,36 @@
+:host {
+  display: flex;
+  flex-flow: column;
+  flex: 1;
+  background: #f7f7f7;
+  padding-bottom: 2rem;
+  padding: 5rem 0;
+  width: 70vw;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  p {
+    color: #3f3047;
+    line-height: 1.4rem;
+    letter-spacing: 0.03rem;
+  }
+
+  p {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.4rem;
+    letter-spacing: 0.03rem;
+  }
+
+  ul {
+    margin: 0 1rem 1rem 1rem;
+    li {
+      list-style: disc;
+      margin-left: 2rem;
+    }
+  }
+}
